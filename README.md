@@ -1,1 +1,1 @@
-# Shop-card
+<img src="https://cdn.discordapp.com/attachments/1325265788214579282/1325306619835449344/image.png?ex=677b4f79&is=6779fdf9&hm=2c8ebf3c6227967022cf618059ad7e5fa7b7d855bf6e2ae4b5eeda951cdc7919&" alt="">
