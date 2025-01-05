@@ -1,0 +1,53 @@
+body {
+    background-color: #070707;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.shop {
+    display: flex;
+    justify-content: center;
+    position: relative;
+    top: 100px;
+    flex-wrap: wrap;
+}
+
+.shop a {
+    background-color: #0e0e0e;
+    padding: 15px;
+    color: aliceblue;
+    border-radius: 10px;
+    width: 400px;
+    margin-left: 10px;
+}
+
+.shop h2 {
+    display: flex;
+    margin-bottom: 10px;
+    justify-content: center;
+}
+
+.shop img {
+    width: 100%;
+    border-radius: 10px;
+}
+
+.shop button {
+    background-color: #2685bf;
+    padding: 10px;
+    width: 100%;
+    margin-top: 10px;
+    border: none;
+    border-radius: 5px;
+}
+
+.shop h3 {
+    display: flex;
+    justify-content: flex-start;
+    margin: 10px;
+}
